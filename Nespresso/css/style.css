@@ -1,0 +1,21 @@
+img {
+    width: 150px;
+    height: 150px;
+    margin-top: 5rem;
+}
+
+.jumbotron {
+    background-color: burlywood;
+    width: 330px;
+    height: 300px;
+    margin-top: 3rem;
+    margin: 3px;
+}
+
+#jumbotron_result {
+    background-color: brown;
+    width: 330px;
+    height: 300px;
+    margin-top: 3rem;
+    margin: 3px;
+}
