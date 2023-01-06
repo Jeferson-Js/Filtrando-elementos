@@ -8,8 +8,8 @@
     --gray-900: #121214;
     --gray-300: #444448;
   
-    --primary-200: #fcd085;
-    --primary-400: #ffbc48;
+    --primary-200: lightgreen;
+    --primary-400: lightgreen;
     font-size: 62.5%;
   }
   
@@ -26,7 +26,7 @@
   }
   
   body {
-    background-color: #121213;
+    background-image: linear-gradient(to bottom, lightgreen, #333);
     font-size: 1.6rem;
   }
   
